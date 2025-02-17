@@ -155,10 +155,10 @@
                                         <a href="#" class="nav-item dropdown-toggle">Our Team</a>
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <a href="#">Teaching Staff</a>
+                                                <a href="teaching-staff.php">Teaching Staff</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="#">Non Teaching Staff</a>
+                                                <a href="non-teaching-staff.php">Non Teaching Staff</a>
                                             </li>
                                         </ul>
                                     </li>
