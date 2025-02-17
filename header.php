@@ -175,10 +175,10 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Library</a>
+                                        <a href="library.php" class="nav-link">Library</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Co-Curricular Activities</a>
+                                        <a href="curricular.php" class="nav-link">Co-Curricular Activities</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">Auto Visual Room </a>
