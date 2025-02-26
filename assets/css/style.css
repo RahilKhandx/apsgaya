@@ -180,7 +180,8 @@ Top Header Area Style
   padding-bottom: 15px;
 }
 .top-header-area .container-fluid {
-  max-width: 1520px;
+  /* max-width: 1520px; */
+  width: 100% !important;
 }
 .header-left-content p {
   color: #ffffff;
@@ -2954,8 +2955,8 @@ Admission Style
 }
 
 .submit {
-  padding-bottom: 35px;
-  margin-bottom: 30px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-bottom: 1px solid #eeeeee;
 }
 .submit h3 {

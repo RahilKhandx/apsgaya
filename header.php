@@ -55,10 +55,15 @@
     <!-- End Preloader Area -->
 
     <!--Start Top Header Area-->
-    <div class="top-header-area">
-        <div class="container-fluid">
+    <!-- <style>
+        div{
+            border: 1px solid black;
+        }
+    </style> -->
+    <div class="top-header-area " >
+        <div class="container-fluid" > 
             <div class="row align-items-center">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-4">
                     <a class="navbar-brand" href="index.php">
                         <img src="assets/images/logomain.png" alt="logo" class="w-100 logo-desktop">
                     </a>
@@ -104,6 +109,12 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-2 col-md-2">
+                    <div class="header-right-content">
+                    <a href="#" class="default-btn btn">T.C. <i class="flaticon-next"></i></a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -181,16 +192,16 @@
                                         <a href="curricular.php" class="nav-link">Co-Curricular Activities</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Auto Visual Room </a>
+                                        <a href="auto-visual-room.php" class="nav-link">Auto Visual Room </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Science Lab</a>
+                                        <a href="science-lab.php" class="nav-link">Science Lab</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Computer Lab</a>
+                                        <a href="computer-lab.php" class="nav-link">Computer Lab</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Security & Safety</a>
+                                        <a href="security-safety.php" class="nav-link">Security & Safety</a>
                                     </li>
                                 </ul>
                             </li>
@@ -203,16 +214,16 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Admission Procedure</a>
+                                        <a href="admission.php" class="nav-link">Admission Procedure</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Fee Structure</a>
+                                        <a href="fee.php" class="nav-link">Fee Structure</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Eligibility</a>
+                                        <a href="eligibility.php" class="nav-link">Eligibility</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Priorities of Admission</a>
+                                        <a href="priorities.php" class="nav-link">Priorities of Admission</a>
                                     </li>
                                 </ul>
                             </li>
@@ -224,32 +235,32 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Dicipline Policy</a>
+                                        <a href="discipline.php" class="nav-link">Dicipline Policy</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">School Timings</a>
+                                        <a href="timings.php" class="nav-link">School Timings</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">School Uniforms </a>
+                                        <a href="uniform.php" class="nav-link">School Uniforms </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Vacations</a>
+                                        <a href="vacation.php" class="nav-link">Vacations</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">School Hours</a>
+                                        <a href="school-hours.php" class="nav-link">School Hours</a>
                                     </li>
                                 </ul>
                             </li>
-
+<!-- 
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     Results
                                 </a>
-                            </li>
+                            </li> -->
 
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    School Alumni
+                                <a href="gallery.php" class="nav-link">
+                                    Gallery
                                 </a>
                             </li>
 
