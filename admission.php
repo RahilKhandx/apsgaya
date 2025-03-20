@@ -3,11 +3,11 @@
 <div class="page-banner-area bg-2">
     <div class="container">
         <div class="page-banner-content">
-            <h1>Admission Procedure</h1>
+            <h1>Online Admission Procedure</h1>
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li>Admission</li>
-                <li>Admission Procedure</li>
+                <li>Online Admission Procedure</li>
             </ul>
         </div>
     </div>

@@ -20,7 +20,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="campus-image">
-                    <img src="assets/images/campus-information/campus-2.jpg" alt="Image" class="img-fluid">
+                    <img src="assets/images/ylswjsy7stw-scaled_imresizer.jpg" alt="Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -85,7 +85,7 @@
                 data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/health-care/health-care-1.jpg" class="img-fluid" alt="Image">
+                        <img src="assets/images/bookshelf_imresizer.jpg" class="img-fluid" alt="Image">
                     </div>
                     <div class="program-content">
                         <h4>Academic textbooks and reference books</h4>
@@ -97,7 +97,7 @@
                 data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/health-care/health-care-2.jpg" class="img-fluid" alt="Image">
+                        <img src="assets/images/activismnonfic-e1503..._imresizer.jpg" class="img-fluid" alt="Image">
                     </div>
                     <div class="program-content">
                         <h4> Fiction and non-fiction for all age groups</h4>
@@ -109,7 +109,7 @@
                 data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/health-care/health-care-3.jpg" class="img-fluid" alt="Image">
+                        <img src="assets/images/collection-of-privat..._imresizer.jpg" class="img-fluid" alt="Image">
                     </div>
                     <div class="program-content">
                         <h4>Newspapers and magazines for current affairs</h4>
@@ -132,19 +132,19 @@
         <div class="health-care-slider owl-carousel owl-theme">
             <div class="single-health-care-card style-3">
                 <div class="img">
-                    <img src="assets/images/health-care/health-care-5.jpg" class="img-fluid" alt="Image">
+                    <img src="assets/images/gl_imresizer.jpg" class="img-fluid" alt="Image">
                 </div>
 
             </div>
             <div class="single-health-care-card style-3">
                 <div class="img">
-                    <img src="assets/images/health-care/health-care-6.jpg" class="img-fluid" alt="Image">
+                    <img src="assets/images/l_imresizer.jpg" class="img-fluid" alt="Image">
                 </div>
 
             </div>
             <div class="single-health-care-card style-3">
                 <div class="img">
-                    <img src="assets/images/health-care/health-care-7.jpg" class="img-fluid" alt="Image">
+                    <img src="assets/images/glim_imresizer.jpg" class="img-fluid" alt="Image">
                 </div>
 
             </div>

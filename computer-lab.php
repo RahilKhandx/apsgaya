@@ -20,7 +20,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="campus-image">
-                    <img src="assets/images/computer-lab/computer-lab-1.jpg" alt="Computer Lab" class="img-fluid">
+                    <img src="assets/images/cmputer.jpg"alt="Computer Lab" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -46,7 +46,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1300" data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/computer-lab/high-tech-systems.jpg" class="img-fluid" alt="High-Tech Systems">
+                        <img src="assets/images/high.jpg" class="img-fluid" alt="High-Tech Systems">
                     </div>
                     <div class="program-content">
                         <h4>High-Tech Systems</h4>
@@ -57,7 +57,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1500" data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/computer-lab/programming.jpg" class="img-fluid" alt="Programming & Coding">
+                        <img src="assets/images/prog.jpg" class="img-fluid" alt="Programming & Coding">
                     </div>
                     <div class="program-content">
                         <h4>Programming & Coding</h4>
@@ -68,7 +68,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1700" data-aos-once="true">
                 <div class="single-program-card">
                     <div class="program-image">
-                        <img src="assets/images/computer-lab/cyber-security.jpg" class="img-fluid" alt="Cyber Security">
+                        <img src="assets/images/cybersecurity-awaren..._imresizer.jpg" class="img-fluid" alt="Cyber Security">
                     </div>
                     <div class="program-content">
                         <h4>Cyber Security Awareness</h4>
@@ -91,7 +91,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1300" data-aos-once="true">
                 <div class="single-health-care-card style-3">
                     <div class="img">
-                        <img src="assets/images/computer-lab/web-design.jpg" class="img-fluid" alt="Web Design & Development">
+                        <img src="assets/images/web_imresizer.jpg" class="img-fluid" alt="Web Design & Development">
                     </div>
                     <div class="program-content">
                         <h4>Web Design & Development</h4>
@@ -102,7 +102,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1500" data-aos-once="true">
                 <div class="single-health-care-card style-3">
                     <div class="img">
-                        <img src="assets/images/computer-lab/ai-robotics.jpg" class="img-fluid" alt="AI & Robotics">
+                        <img src="assets/images/ai-robotics_imresizer.jpg" class="img-fluid" alt="AI & Robotics">
                     </div>
                     <div class="program-content">
                         <h4>AI & Robotics</h4>
@@ -113,7 +113,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1700" data-aos-once="true">
                 <div class="single-health-care-card style-3">
                     <div class="img">
-                        <img src="assets/images/computer-lab/digital-media.jpg" class="img-fluid" alt="Digital Media & Creativity">
+                        <img src="assets/images/creative-industries-..._imresizer.jpg" class="img-fluid" alt="Digital Media & Creativity">
                     </div>
                     <div class="program-content">
                         <h4>Digital Media & Creativity</h4>
