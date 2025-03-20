@@ -53,7 +53,7 @@
         </div>
     </div>
     <!-- End Preloader Area -->
-    <div class="desktop-nav d-flex justify-content-end pt-3 pb-3" style="background-color: #E32845;">
+    <div class="desktop-nav d-flex justify-content-end pt-1 pb-1" style="background-color: #E32845;">
     <div class="ms-2">
         <a href="admission.php" class="ad-btn">Online Admission</a>
     </div>
@@ -199,6 +199,9 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-item dropdown-toggle">Lab Facilities</a>
                                         <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                                <a href="computer-lab.php" class="nav-link">Computer Lab</a>
+                                            </li>
                                             <li class="nav-item">
                                                 <a href="science-lab.php" class="nav-link">Science Lab</a>
                                             </li>
@@ -211,16 +214,35 @@
                                             <li class="nav-item">
                                                 <a href="atal-lab.php" class="nav-link">ATAL Lab</a>
                                             </li>
+                                          
                                         </ul>
                                     </li>
                                     <li class="nav-item">
                                         <a href="library.php" class="nav-link">Library</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a href="sports.php" class="nav-link">Sports</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="curricular.php" class="nav-link">Co-Curricular Activities</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="auto-visual-room.php" class="nav-link">Auto Visual Room </a>
+                                        <a href="resource-room.php" class="nav-link">Resource Room</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="auto-visual-room.php" class="nav-link">Audio Visual Room </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="art_craft.php" class="nav-link">Art and Craft </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="music_dance.php" class="nav-link">Music & Dance </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="kitchen_garden.php" class="nav-link">Kitchen Garden </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="ncc.php" class="nav-link">NCC </a>
                                     </li>
 
                                     <li class="nav-item">
@@ -237,10 +259,16 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="admission.php" class="nav-link">Admission Procedure</a>
+                                        <a href="admission.php" class="nav-link">Online Admission Procedure</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="fee.php" class="nav-link">Fee Structure</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">Online Admission</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">Pay Fee Online</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="eligibility.php" class="nav-link">Eligibility</a>

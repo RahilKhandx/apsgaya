@@ -2,25 +2,55 @@
 <!--Start Banner Area-->
 <div class="banner-area">
     <div class="hero-slider2 owl-carousel owl-theme">
-        <div class="slider-item banner-bg-4">
+    <div class="slider-item banner-bg-1">
             <div class="container-fluid">
-                <div class="slider-content">
+                <!-- <div class="slider-content">
                     <h1>Build a Bright Future with Excellence & Integrity</h1>
                     <p>At Army Public School, Gaya, we shape young minds with knowledge, discipline, and values,
                         empowering them to achieve academic and personal excellence.</p>
                     <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
-                </div>
+                </div> -->
+            </div>
+        </div>
+        <div class="slider-item banner-bg-2">
+            <div class="container-fluid">
+                <!-- <div class="slider-content">
+                    <h1>Build a Bright Future with Excellence & Integrity</h1>
+                    <p>At Army Public School, Gaya, we shape young minds with knowledge, discipline, and values,
+                        empowering them to achieve academic and personal excellence.</p>
+                    <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+                </div> -->
+            </div>
+        </div>
+        <div class="slider-item banner-bg-3">
+            <div class="container-fluid">
+                <!-- <div class="slider-content">
+                    <h1>Build a Bright Future with Excellence & Integrity</h1>
+                    <p>At Army Public School, Gaya, we shape young minds with knowledge, discipline, and values,
+                        empowering them to achieve academic and personal excellence.</p>
+                    <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+                </div> -->
+            </div>
+        </div>
+        <div class="slider-item banner-bg-4">
+            <div class="container-fluid">
+                <!-- <div class="slider-content">
+                    <h1>Build a Bright Future with Excellence & Integrity</h1>
+                    <p>At Army Public School, Gaya, we shape young minds with knowledge, discipline, and values,
+                        empowering them to achieve academic and personal excellence.</p>
+                    <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+                </div> -->
             </div>
         </div>
 
         <div class="slider-item banner-bg-5">
             <div class="container-fluid">
-                <div class="slider-content">
+                <!-- <div class="slider-content">
                     <h1>Unlock Your Potential & Shape Your Dreams</h1>
                     <p>Discover a world of learning, creativity, and leadership at APS Gaya, where we nurture talent,
                         encourage curiosity, and prepare students for a successful future.</p>
                     <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -78,7 +108,7 @@
 </div>
 <!-- about -->
 <!--Start Academic Area-->
-<div class="academic-area pt-100 pb-70">
+<!-- <div class="academic-area pt-100 pb-70">
     <div class="container">
         <div class="section-title">
             <h2>Academics</h2>
@@ -86,7 +116,6 @@
                 and holistic development across all grades.</p>
         </div>
         <div class="row justify-content-center">
-            <!-- Secondary Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -100,7 +129,6 @@
                         leadership development**, preparing students for board exams and beyond.</p>
                 </div>
             </div>
-            <!-- Primary Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -114,7 +142,6 @@
                         creativity, and essential skills** through an engaging and activity-based curriculum.</p>
                 </div>
             </div>
-            <!-- Middle Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -130,7 +157,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!--End Academic Area-->
 <!-- news and tickker -->
@@ -207,6 +234,68 @@
 </div>
 
 <!-- news and tickker -->
+ <!-- all messages -->
+<div class="courses-details-area pt-70  bg-blue">
+    <div class="container-fluid">
+        <div class="row w-100">
+            <div class="col-lg-12">
+                <div class="courses-details">
+                    <div class="description">
+                        <div class="container p-0">
+
+                            <div class="tab-content" id="nav-tabContent">
+                                <div class="tab-pane fade show active" id="nav-overview" role="tabpanel"
+                                    aria-labelledby="nav-overview-tab">
+                                    <div class="overview row">
+                                        <div class="col-lg-6">
+                                            <img src="assets/images/principlemessage.jpeg" alt=""
+                                                srcset="" class="img-fluid">
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="campus-content pr-20">
+                                                <div class="campus-title">
+                                                    <h1>Principal Message</h1>
+                                                    <p style="text-align: justify!important;">Education is about awakening- awakening to the power and
+                                                        beauty that lies within all of us” Army Public School, Gaya,
+                                                        endeavours to inspire and empower our students to be
+                                                        lifelong learners, critical thinkers and productive members
+                                                        of an ever-changing global society. Students are encouraged
+                                                        to channelize in a holistic student-centric environment. We
+                                                        strive to sensitize our students to the needs of the
+                                                        community and inculcate values like integrity, fortitude and
+                                                        acceptance of individual differences. Our education is aimed
+                                                        not only at churning out success stories but also endeavors
+                                                        to make our children sensitive and humane to reach out in
+                                                        love and service. The school emphasizes an overall
+                                                        development of a child by fostering a synergic blend between
+                                                        scholastic and co-scholastic achievements and a host of
+                                                        co-curricular and extracurricular activities which find a
+                                                        rightful place in the curriculum. Therefore, success is not
+                                                        just being good at studies taking part in various activities
+                                                        and excelling in them but also the attitude towards elders,
+                                                        teachers, class mates and above all oneself. My unflinching
+                                                        belief has always been that those students who find pleasure
+                                                        in diligent and disciplined life reap a bountiful harvest in
+                                                        the form of divine satisfaction and worldly success. </p>
+                                                </div>
+
+
+                                                <!-- <a href="#" class="default-btn btn">Start your
+                                                        application<i class="flaticon-next"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- all messages -->
 <!-- hiring -->
 <div class="graduate-admission pt-100 pb-70" id="hiring">
     <div class="container">
@@ -527,68 +616,7 @@
 </div>
 <!-- student corner -->
 
-<!-- all messages -->
-<div class="courses-details-area pt-100 pb-70 bg-blue">
-    <div class="container-fluid">
-        <div class="row w-100">
-            <div class="col-lg-12">
-                <div class="courses-details">
-                    <div class="description">
-                        <div class="container p-0">
 
-                            <div class="tab-content" id="nav-tabContent">
-                                <div class="tab-pane fade show active" id="nav-overview" role="tabpanel"
-                                    aria-labelledby="nav-overview-tab">
-                                    <div class="overview row">
-                                        <div class="col-lg-6">
-                                            <img src="assets/images/WhatsApp Image 2025-..._imresizer (1).jpg" alt=""
-                                                srcset="" class="img-fluid">
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="campus-content pr-20">
-                                                <div class="campus-title">
-                                                    <h1>Principal Message</h1>
-                                                    <p>Education is about awakening- awakening to the power and
-                                                        beauty that lies within all of us” Army Public School, Gaya,
-                                                        endeavours to inspire and empower our students to be
-                                                        lifelong learners, critical thinkers and productive members
-                                                        of an ever-changing global society. Students are encouraged
-                                                        to channelize in a holistic student-centric environment. We
-                                                        strive to sensitize our students to the needs of the
-                                                        community and inculcate values like integrity, fortitude and
-                                                        acceptance of individual differences. Our education is aimed
-                                                        not only at churning out success stories but also endeavors
-                                                        to make our children sensitive and humane to reach out in
-                                                        love and service. The school emphasizes an overall
-                                                        development of a child by fostering a synergic blend between
-                                                        scholastic and co-scholastic achievements and a host of
-                                                        co-curricular and extracurricular activities which find a
-                                                        rightful place in the curriculum. Therefore, success is not
-                                                        just being good at studies taking part in various activities
-                                                        and excelling in them but also the attitude towards elders,
-                                                        teachers, class mates and above all oneself. My unflinching
-                                                        belief has always been that those students who find pleasure
-                                                        in diligent and disciplined life reap a bountiful harvest in
-                                                        the form of divine satisfaction and worldly success. </p>
-                                                </div>
-
-
-                                                <!-- <a href="#" class="default-btn btn">Start your
-                                                        application<i class="flaticon-next"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- all messages -->
 
 
 <!--Start Campus Information-->

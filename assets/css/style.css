@@ -1085,7 +1085,7 @@ Banner Style
 
 .slider-item {
   position: relative;
-  background-size: cover;
+  /* background-size: contain; */
   background-position: center center;
   background-repeat: no-repeat;
   padding-top: 200px;
@@ -1094,19 +1094,19 @@ Banner Style
   overflow: hidden;
 }
 .slider-item.banner-bg-1 {
-  background-image: url(../images/banner/banner-img1.jpg);
+  background-image: url(../images/s1.jpg);
 }
 .slider-item.banner-bg-2 {
-  background-image: url(../images/banner/banner-img2.jpg);
+  background-image: url(../images/s2.jpg);
 }
 .slider-item.banner-bg-3 {
-  background-image: url(../images/banner/banner-img3.jpg);
+  background-image: url(../images/s3.jpg);
 }
 .slider-item.banner-bg-4 {
-  background-image: url(../images/DSC04334_imresizer.jpg);
+  background-image: url(../images/s4.jpg);
 }
 .slider-item.banner-bg-5 {
-  background-image: url(../images/DSC03898_imresizer.jpg);
+  background-image: url(../images/s5.jpg);
 }
 .slider-item.banner-bg-6 {
   background-image: url(../images/banner/banner-img6.jpg);

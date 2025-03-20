@@ -82,7 +82,7 @@
 <!-- End English Lab Features -->
 
 <!-- Subject-Specific Labs -->
-<div class="health-care-area pt-100 pb-70 bg-f4f6f9">
+<!-- <div class="health-care-area pt-100 pb-70 bg-f4f6f9">
     <div class="container">
         <div class="section-title">
             <h2>Our Subject-Specific Laboratories</h2>
@@ -123,7 +123,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Subject-Specific Labs -->
 
 <!-- Join Us Section -->
