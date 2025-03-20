@@ -63,49 +63,49 @@
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">1</th>
+                <th scope="row">3</th>
                 <td>Mr. A. Sharma</td>
                 <td>Mathematics</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">4</th>
                 <td>Ms. P. Verma</td>
                 <td>Science</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">1</th>
+                <th scope="row">5</th>
                 <td>Mr. A. Sharma</td>
                 <td>Mathematics</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">6</th>
                 <td>Ms. P. Verma</td>
                 <td>Science</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">1</th>
+                <th scope="row">7</th>
                 <td>Mr. A. Sharma</td>
                 <td>Mathematics</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">8</th>
                 <td>Ms. P. Verma</td>
                 <td>Science</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">1</th>
+                <th scope="row">9</th>
                 <td>Mr. A. Sharma</td>
                 <td>Mathematics</td>
                 <td>Senior Teacher</td>
             </tr>
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">10</th>
                 <td>Ms. P. Verma</td>
                 <td>Science</td>
                 <td>Senior Teacher</td>

@@ -53,6 +53,17 @@
         </div>
     </div>
     <!-- End Preloader Area -->
+    <div class="desktop-nav d-flex justify-content-end pt-3 pb-3" style="background-color: #E32845;">
+    <div class="ms-2">
+        <a href="admission.php" class="ad-btn">Online Admission</a>
+    </div>
+    <div class="ms-2">
+        <a href="fee.php" class="ad-btn">Online Fee</a>
+    </div>
+    <div class="ms-2">
+        <a href="#hiring" class="ad-btn">Hiring Recruitment 2025</a>
+    </div>
+</div>
 
     <!--Start Top Header Area-->
     <!-- <style>
@@ -60,8 +71,8 @@
             border: 1px solid black;
         }
     </style> -->
-    <div class="top-header-area " >
-        <div class="container-fluid" > 
+    <div class="top-header-area ">
+        <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-4">
                     <a class="navbar-brand" href="index.php">
@@ -74,7 +85,7 @@
                             <ul>
                                 <li><a href="#">
                                         <i class="fa-regular fa-envelope"></i>
-                                        <span>demo@xyz.com</span>
+                                        <span>apsgaya@gmail.com</span>
                                     </a></li>
                                 <li><a href="#">
                                         <i class="fa-solid fa-phone"></i>
@@ -111,7 +122,7 @@
                 </div>
                 <div class="col-lg-2 col-md-2">
                     <div class="header-right-content">
-                    <a href="#" class="default-btn btn">T.C. <i class="flaticon-next"></i></a>
+                        <a href="#" class="default-btn btn">T.C. <i class="flaticon-next"></i></a>
                     </div>
                 </div>
 
@@ -135,7 +146,7 @@
             </div>
         </div>
 
-        <div class="desktop-nav ">
+        <div class="desktop-nav">
             <div class="container d-flex justify-content-center">
                 <nav class=" navbar navbar-expand-md navbar-light">
 
@@ -186,6 +197,23 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
+                                        <a href="#" class="nav-item dropdown-toggle">Lab Facilities</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a href="science-lab.php" class="nav-link">Science Lab</a>
+                                            </li>
+                                            <!-- <li class="nav-item">
+                                                <a href="science-lab.php" class="nav-link">Science Lab</a>
+                                            </li> -->
+                                            <li class="nav-item">
+                                                <a href="eng-lab.php" class="nav-link">English Language Lab</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="atal-lab.php" class="nav-link">ATAL Lab</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
                                         <a href="library.php" class="nav-link">Library</a>
                                     </li>
                                     <li class="nav-item">
@@ -194,12 +222,7 @@
                                     <li class="nav-item">
                                         <a href="auto-visual-room.php" class="nav-link">Auto Visual Room </a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a href="science-lab.php" class="nav-link">Science Lab</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="computer-lab.php" class="nav-link">Computer Lab</a>
-                                    </li>
+
                                     <li class="nav-item">
                                         <a href="security-safety.php" class="nav-link">Security & Safety</a>
                                     </li>
@@ -251,7 +274,7 @@
                                     </li>
                                 </ul>
                             </li>
-<!-- 
+                            <!-- 
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     Results
@@ -305,11 +328,17 @@
                     </a>
                     <div class="sidebar-content">
                         <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Recognized in 1998, the school evolved under AWES, becoming Army Public School, OTA, Gaya, in 2014 with CBSE approval. It currently offers classes from Grade 1 to Secondary level.</p>
 
                         <div class="sidebar-btn">
-                            <a href="contact.html" class="default-btn">Let’s Talk</a>
+
+                            <a href="admission.php" class="default-btn">Online Admission</a>
+
+                        </div>
+                        <div class="sidebar-btn ">
+
+                            <a href="fee.php" class="default-btn">Online Fee</a>
+
                         </div>
                     </div>
                     <div class="sidebar-contact-info">
@@ -395,6 +424,3 @@
 
     </div>
     <!-- End Sidebar Modal -->
-
-
-   

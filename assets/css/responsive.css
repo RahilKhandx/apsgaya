@@ -2776,7 +2776,8 @@
     display: none !important;
   }
   .desktop-nav {
-    display: none !important;
+    /* display: none !important; */
+    font-size: 12px;
   }
   .others-option-for-responsive {
     display: block !important;

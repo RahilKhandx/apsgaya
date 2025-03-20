@@ -1,78 +1,79 @@
- <!--Start Footer Area-->
- <div class="footer-area bg-blue pt-100 pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-sm-6">
-                    <div class="footer-logo-area">
-                        <a href="index.html"><img src="assets/images/logomain.png" alt="Image"></a>
-                        <p>Army Public School University was established by J.H Merthon in 1810 for the public benefit.
-                            Afterwards, it
-                            is recognized globally</p>
-                        <div class="contact-list">
-                            <ul>
-                                <li><a href="tel:+01987655567685">+01-9876-5556-7685
-                                    </a></li>
-                                <li><a
-                                        href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#5e3f3a3337301e2d3f302b703b3a2b"><span
-                                            class="__cf_email__"
-                                            data-cfemail="d3b2b7bebabd93a0b2bda6fdb6b7a6">[email&#160;protected]</span></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="footer-widjet">
-                        <h3>Campus Life</h3>
-                        <div class="list">
-                            <ul>
-                                <li><a href="#">Accessibility</a></li>
-                                <li><a href="#">Financial Aid</a></li>
-                                <li><a href="#">Food Services</a></li>
-                                <li><a href="#">Housing</a></li>
-                                <li><a href="#">Information Technologies</a></li>
-                                <li><a href="#">Student Life</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="footer-widjet">
-                        <h3>Our Campus</h3>
-                        <div class="list">
-                            <ul>
-                                <li><a href="#">Acedemic</a></li>
-                                <li><a href="#">Planning & AdminiStartion</a></li>
-                                <li><a href="#">Campus Safety</a></li>
-                                <li><a href="#">Office of the Chancellor</a></li>
-                                <li><a href="#">Facility Services</a></li>
-                                <li><a href="#">Human Resources</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <div class="footer-widjet">
-                        <h3>Academics</h3>
-                        <div class="list">
-                            <ul>
-                                <li><a href="#">Canvas</a></li>
-                                <li><a href="#">Catalyst</a></li>
-                                <li><a href="#">Library</a></li>
-                                <li><a href="#">Time Schedule</a></li>
-                                <li><a href="#">Apply For Admissions</a></li>
-                                <li><a href="#">Pay My Tuition</a></li>
-                            </ul>
-                        </div>
+ <!-- Start Footer Area -->
+<div class="footer-area bg-blue pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <!-- Footer Logo & Contact Info -->
+            <div class="col-lg-4 col-sm-6">
+                <div class="footer-logo-area">
+                    <a href="index.php"><img src="assets/images/logomain.png" alt="Army Public School Logo"></a>
+                    <p>APS Gaya is committed to providing quality education, fostering leadership, and nurturing talent in a disciplined environment.</p>
+                    <div class="contact-list">
+                        <ul>
+                            <li><a href="tel:+911234567890">+91-1234-567-890</a></li>
+                            <li><a href="mailto:apsgaya@gmail.com">apsgaya@gmail.com</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <div class="shape">
-                <img src="assets/images/shape-1.png" alt="Image">
+
+            <!-- About APS Gaya -->
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widjet">
+                    <h3>About APS Gaya</h3>
+                    <div class="list">
+                        <ul>
+                            <li><a href="belief.php">Mission & Vision</a></li>
+                            <li><a href="staff.php">School Managing Committee</a></li>
+                            <li><a href="curricullum.php">Curriculum</a></li>
+                            <li><a href="teaching-staff.php">Teaching Staff</a></li>
+                            <li><a href="non-teaching-staff.php">Non-Teaching Staff</a></li>
+                            <li><a href="#">Mandatory Public Disclosure</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Facilities -->
+            <div class="col-lg-3 col-sm-6">
+                <div class="footer-widjet">
+                    <h3>Our Facilities</h3>
+                    <div class="list">
+                        <ul>
+                            <li><a href="library.php">Library</a></li>
+                            <li><a href="curricular.php">Co-Curricular Activities</a></li>
+                            <li><a href="audio-visual-room.php">Audio-Visual Room</a></li>
+                            <li><a href="science-lab.php">Science Lab</a></li>
+                            <li><a href="computer-lab.php">Computer Lab</a></li>
+                            <li><a href="security-safety.php">Security & Safety</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-lg-2 col-sm-6">
+                <div class="footer-widjet">
+                    <h3>Quick Links</h3>
+                    <div class="list">
+                        <ul>
+                            <li><a href="admission.php">Admissions</a></li>
+                            <li><a href="fee.php">Fee Structure</a></li>
+                            <li><a href="eligibility.php">Eligibility</a></li>
+                            <li><a href="discipline.php">Discipline Policy</a></li>
+                            <li><a href="gallery.php">Gallery</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
+
+        <div class="shape">
+            <img src="assets/images/shape-1.png" alt="Decorative Shape">
+        </div>
     </div>
-    <!--End Footer Area-->
+</div>
+<!-- End Footer Area -->
 
     <!--Start Copyright Area-->
     <div class="copyright-area">

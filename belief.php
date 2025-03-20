@@ -105,7 +105,7 @@
                 data-aos-once="true">
                 <div class="campus-content style-2">
                     <div class="campus-title">
-                        <h4 style="color :#ED1B24;">Our Vission</h4>
+                        <h4 style="color :#ED1B24;">Our Vision</h4>
                         <h2> Empowering Young Minds for a Stronger Nation</h2>
                         <p>To create a generation of disciplined, knowledgeable, and responsible individuals who embody leadership, innovation, and service to the nation. </p>
                     </div>
@@ -185,80 +185,85 @@
     <div class="container">
         <div class="section-title">
             <h2>Latest News</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
+            <p>Stay updated with the latest happenings, achievements, and events at APS Gaya.</p>
         </div>
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-7">
+                <!-- News 1: Annual Science Exhibition -->
                 <div class="single-news-card style3" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-5">
                             <div class="news-img">
-                                <a href="news-details.html"><img src="assets/images/news/news-1.jpg" alt="Image"></a>
+                                <a href="news-details.html"><img src="assets/images/steptodown.com194748.jpg" class="img-fluid" alt="Science Exhibition"></a>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7">
                             <div class="news-content">
                                 <div class="list">
                                     <ul>
-                                        <li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-                                        <li><i class="flaticon-tag"></i>Social Sciences</li>
+                                        <li><i class="flaticon-user"></i>By <a href="news-details.html">School Admin</a></li>
+                                        <li><i class="flaticon-tag"></i>Academics</li>
                                     </ul>
                                 </div>
-                                <a href="news-details.html">
-                                    <h3>Professor Tom Comments On The Volunteer B. Snack Brand</h3>
-                                </a>
-                                <a href="news-details.html" class="read-more-btn">read More<i class="flaticon-next"></i></a>
+                                <h3>APS Gaya Hosts Annual Science Exhibition 2025</h3>
+                                
+                                <p>Our students showcased innovative projects and experiments, inspiring creativity and curiosity in science and technology.</p>
+                                <!-- <a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
+                <!-- News 2: Inter-House Debate Competition -->
                 <div class="single-news-card style3" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
                     <div class="row align-items-center">
                         <div class="col-lg-5 col-md-5">
                             <div class="news-img">
-                                <a href="news-details.html"><img src="assets/images/news/news-2.jpg" alt="Image"></a>
+                            <a href="news-details.html"><img src="assets/images/steptodown.com551378.jpg" class="img-fluid" alt="Science Exhibition"></a>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7">
                             <div class="news-content">
                                 <div class="list">
                                     <ul>
-                                        <li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-                                        <li><i class="flaticon-tag"></i>Social Sciences</li>
+                                        <li><i class="flaticon-user"></i>By <a href="news-details.html">English Literary Club</a></li>
+                                        <li><i class="flaticon-tag"></i>Competitions</li>
                                     </ul>
                                 </div>
-                                <a href="news-details.html">
-                                    <h3>How To Use Technology To Adapt Your Talent To The World</h3>
-                                </a>
-                                <a href="news-details.html" class="read-more-btn">read More<i class="flaticon-next"></i></a>
+                                <h3>Inter-House Debate Competition: A Battle of Minds</h3>
+                                
+                                <p>Students from all houses participated in a thrilling debate on current affairs, showcasing their critical thinking and speaking skills.</p>
+                                <!-- <a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- News 3: Sports Meet -->
             <div class="col-lg-5 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
                 <div class="single-news-card style2">
                     <div class="news-img">
-                        <a href="news-details.html"><img src="assets/images/news/news-4.jpg" alt="Image"></a>
+                    <a href="news-details.html"><img src="assets/images/steptodown.com636675.jpg" class="img-fluid" alt="Science Exhibition"></a>
                     </div>
                     <div class="news-content">
                         <div class="list">
                             <ul>
-                                <li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-                                <li><i class="flaticon-tag"></i>Social Sciences</li>
+                                <li><i class="flaticon-user"></i>By <a href="news-details.html">Sports Department</a></li>
+                                <li><i class="flaticon-tag"></i>Sports</li>
                             </ul>
                         </div>
-                        <a href="news-details.html">
-                            <h3>Here Are The Things To Look For When Selecting Course</h3>
-                        </a>
-                        <a href="news-details.html" class="read-more-btn">read More<i class="flaticon-next"></i></a>
+                        <h3>Annual Sports Meet: Celebrating Fitness & Teamwork</h3>
+                       
+                        <p>Athletes from APS Gaya competed in various sports, demonstrating teamwork, discipline, and sportsmanship.</p>
+                        <!-- <a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 <!--End News Area-->
 <!--footer-->
 <?php include 'footer.php'; ?>

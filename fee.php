@@ -3,11 +3,11 @@
 <div class="page-banner-area bg-1">
     <div class="container">
         <div class="page-banner-content">
-            <h1>Fee</h1>
+            <h1>Fee Structure</h1>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li>Admission</li>
-                <li>Fee</li>
+                <li>Fee Structure</li>
             </ul>
         </div>
     </div>
@@ -21,14 +21,8 @@
             <div class="col-lg-8">
                 <div class="academics-details">
                     <div class="details">
-                        <h2>Secret admission to the Faculty of Art & Design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco
-                            laboris nisi ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem
-                            incid idunt ut l</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco
-                            laboris nisi ut </p>
+                        <h2>Fee Structure for Academic Year</h2>
+                        <p>Our fee structure is designed to be transparent and flexible, ensuring affordability while maintaining high-quality education. Below are the details of the fee structure for various programs.</p>
                         <div class="details-images">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
@@ -41,51 +35,43 @@
                         </div>
                     </div>
                     <div class="regiStartion-and-fee">
-                        <h3>Test RegiStartion & Fee :</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco
-                            laboris nisi ut</p>
+                        <h3>Registration & Fee Payment Process:</h3>
+                        <p>Follow these simple steps to complete your registration and fee payment:</p>
                         <div class="list">
                             <ul>
-                                <li>1. Create your personal account</li>
-                                <li>2. Schedule your tests for the relevant faculty entry</li>
-                                <li>3. Wait until you get an email</li>
-                                <li>4. Take the test on a predetermined schedule</li>
+                                <li><strong>1.</strong> Create your personal account on our portal.</li>
+                                <li><strong>2.</strong> Select your desired course and review the fee details.</li>
+                                <li><strong>3.</strong> Complete the payment through our secure online gateway.</li>
+                                <li><strong>4.</strong> Receive a confirmation email with your admission details.</li>
                             </ul>
                         </div>
                     </div>
                     <div class="prepare-exam">
-                        <h3>Fee Structure</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco
-                            laboris nisi ut</p>
+                        <h3>Breakdown of Fees</h3>
+                        <p>Below is a breakdown of our tuition and additional fees for the academic year:</p>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="exam-card">
-                                    <h4>Study Related Material</h4>
-                                    <p>Lorem ipsum dolor sit amet, cons ectetur adi
-                                        elit, sed do eiusmod tem incid idunt labore et dolore magna aliqua.</p>
+                                    <h4><strong>Tuition Fees</strong></h4>
+                                    <p>The tuition fee varies based on the program and level of study. Please check with the admissions office for precise details.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="exam-card">
-                                    <h4>Group Discussion</h4>
-                                    <p>Lorem ipsum dolor sit amet, cons ectetur adi
-                                        elit, sed do eiusmod tem incid idunt labore et dolore magna aliqua.</p>
+                                    <h4><strong>Library & Study Materials</strong></h4>
+                                    <p>Includes access to our digital library, printed materials, and research resources.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="exam-card">
-                                    <h4>Take The Online Test</h4>
-                                    <p>Lorem ipsum dolor sit amet, cons ectetur adi
-                                        elit, sed do eiusmod tem incid idunt labore et dolore magna aliqua.</p>
+                                    <h4><strong>Examination Fees</strong></h4>
+                                    <p>Covers all internal assessments, semester exams, and certification fees.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="exam-card">
-                                    <h4>Multiply Your Research</h4>
-                                    <p>Lorem ipsum dolor sit amet, cons ectetur adi
-                                        elit, sed do eiusmod tem incid idunt labore et dolore magna aliqua.</p>
+                                    <h4><strong>Additional Charges</strong></h4>
+                                    <p>May include hostel accommodation, lab fees, and extracurricular activities, depending on the chosen course.</p>
                                 </div>
                             </div>
                         </div>
@@ -93,48 +79,13 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="detgails-right-content">
-                    <!-- <div class="serch-content">
-                        <h3>Search</h3>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Find Your Course">
-                            <button type="submit" class="src-btn">
-                                <i class="flaticon-search"></i>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="academics-list">
-                        <h3>Academics List</h3>
-                        <ul>
-                            <li>
-                                <a href="academics.html">Computer Science<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                            <li>
-                                <a href="academics.html">Art & Design<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                            <li>
-                                <a href="academics.html">Sciences<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                            <li>
-                                <a href="academics.html">Engineering<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                            <li>
-                                <a href="academics.html">Law Department<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                            <li>
-                                <a href="academics.html">Management Business<i class="ri-arrow-drop-right-fill"></i></a>
-                            </li>
-                        </ul>
-                    </div> -->
-
+                <div class="details-right-content">
                     <div class="related-download">
                         <h3>Related Downloads</h3>
                         <ul>
-                            <li><a href="#"><i class="flaticon-pdf-file"></i>Brochure Department</a></li>
-                            <li><a href="#"><i class="flaticon-pdf-file"></i>Department Details</a></li>
-                            <li><a href="#"><i class="flaticon-pdf-file"></i>Journals Departments</a></li>
-                            <li><a href="#"><i class="flaticon-pdf-file"></i>Alumni Departments</a></li>
+                            <li><a href="#"><i class="flaticon-pdf-file"></i><strong>Fee Structure Document</strong></a></li>
+                            <li><a href="#"><i class="flaticon-pdf-file"></i><strong>Payment Guidelines</strong></a></li>
+                            <li><a href="#"><i class="flaticon-pdf-file"></i><strong>Scholarship Details</strong></a></li>
                         </ul>
                     </div>
                 </div>

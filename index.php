@@ -5,23 +5,25 @@
         <div class="slider-item banner-bg-4">
             <div class="container-fluid">
                 <div class="slider-content">
-                    <h1>Start Your Beautiful & Bright Future From Here</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper
-                        mattis pulvinar dapibus dolor sit amet consec</p>
+                    <h1>Build a Bright Future with Excellence & Integrity</h1>
+                    <p>At Army Public School, Gaya, we shape young minds with knowledge, discipline, and values,
+                        empowering them to achieve academic and personal excellence.</p>
                     <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
                 </div>
             </div>
         </div>
+
         <div class="slider-item banner-bg-5">
             <div class="container-fluid">
                 <div class="slider-content">
-                    <h1>Explore Your Potential & Talents In Sanu</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper
-                        mattis pulvinar dapibus dolor sit amet consec</p>
+                    <h1>Unlock Your Potential & Shape Your Dreams</h1>
+                    <p>Discover a world of learning, creativity, and leadership at APS Gaya, where we nurture talent,
+                        encourage curiosity, and prepare students for a successful future.</p>
                     <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
                 </div>
             </div>
         </div>
+
     </div>
     <!-- marque -->
     <div class="updates-marquee ">
@@ -68,7 +70,7 @@
             <div class="col-lg-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1300"
                 data-aos-once="true">
                 <div class="campus-image">
-                    <img src="assets/images/campus-information/campus-1.jpg" alt="Image" class="w-100 img-fluid">
+                    <img src="assets/images/APS FRONT PIC_imresizer.jpg" alt="Image" class="w-100 img-fluid">
                 </div>
             </div>
         </div>
@@ -80,10 +82,11 @@
     <div class="container">
         <div class="section-title">
             <h2>Academics</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis
-            </p>
+            <p>At APS Gaya, we offer a structured curriculum designed to foster intellectual growth, critical thinking,
+                and holistic development across all grades.</p>
         </div>
         <div class="row justify-content-center">
+            <!-- Secondary Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -93,11 +96,11 @@
                             <h3>Secondary Wing</h3>
                         </a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur ad
-                        piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-                    <!-- <a href="#" class="read-more-btn">Secondary Wing<i class="flaticon-next"></i></a> -->
+                    <p>Our Secondary Wing (Classes IX-X) focuses on **academic excellence, career readiness, and
+                        leadership development**, preparing students for board exams and beyond.</p>
                 </div>
             </div>
+            <!-- Primary Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -107,11 +110,11 @@
                             <h3>Primary Wing</h3>
                         </a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur ad
-                        piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-                    <!-- <a href="#" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
+                    <p>The foundation of learning starts here! Our Primary Wing (Classes I-V) **nurtures curiosity,
+                        creativity, and essential skills** through an engaging and activity-based curriculum.</p>
                 </div>
             </div>
+            <!-- Middle Wing -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-academics-card">
@@ -121,14 +124,14 @@
                             <h3>Middle Wing</h3>
                         </a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur ad
-                        piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-                    <!-- <a href="#" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a> -->
+                    <p>Our Middle Wing (Classes VI-VIII) **bridges the gap between primary and secondary education**,
+                        emphasizing conceptual learning, problem-solving, and skill development.</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 <!--End Academic Area-->
 <!-- news and tickker -->
 <div class="campus-information-area pb-70">
@@ -140,12 +143,11 @@
                     <div class="campus-content pr-20">
                         <div class="campus-title">
                             <h4>Latest News</h4>
-
                         </div>
                     </div>
+                    <!-- News Item 1 -->
                     <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                         data-aos-once="true">
-
                         <div class="single-campus-card">
                             <div class="img">
                                 <a href="#"><img src="assets/images/campus-life/campus-life-1.jpg" alt="Image"
@@ -154,11 +156,14 @@
                             <div class="campus-content">
                                 <span>Art & Culture</span>
                                 <a href="#">
-                                    <h3>Art, Exercise And Escapism In Nature</h3>
+                                    <h3>Creative Expressions: Showcasing Student Art & Talent</h3>
                                 </a>
+                                <p>Students at APS Gaya recently participated in an **Art & Culture Fest**, highlighting
+                                    their creativity through paintings, dance, and music performances.</p>
                             </div>
                         </div>
                     </div>
+                    <!-- News Item 2 -->
                     <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                         data-aos-once="true">
                         <div class="single-campus-card">
@@ -169,134 +174,185 @@
                             <div class="campus-content">
                                 <span>Athletics & Fitness</span>
                                 <a href="#">
-                                    <h3>Improve Athletic Performance Tips From Army Public School</h3>
+                                    <h3>APS Gaya Hosts Annual Sports Meet 2025</h3>
                                 </a>
+                                <p>From track races to team sports, students displayed **strength, agility, and
+                                    teamwork** at the Annual Sports Meet. Winners were awarded for their excellence.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
+            <!-- Marquee News Updates -->
             <div class="col-lg-4 marquee-cont" data-aos="fade-up" data-aos-easing="ease-in-sine"
                 data-aos-duration="1300" data-aos-once="true">
                 <div class="container updates-marquee-v">
                     <marquee class="marquee-content-v" height="100%" width="100%" behavior="scroll" direction="up"
                         scrollamount="2" onmouseover="this.stop();" onmouseout="this.start();">
                         <ul>
-
-                            <li></li>
-                            <li>Hello I am Testing 3</li>
-                            <li>Hello I am Testing 4</li>
-                            <li>Hello I am Testing 1</li>
-                            <li>Hello I am Testing 2</li>
-                            <li>Hello I am Testing 3</li>
-                            <li>Hello I am Testing 4</li>
-                            <li>Hello I am Testing 1</li>
-                            <li>Hello I am Testing 2</li>
-                            <li>Hello I am Testing 3</li>
-                            <li>Hello I am Testing 4</li>
+                            <li>📢 Admissions Open for 2025-26! Apply Now.</li>
+                            <li>🏆 APS Gaya secures 1st place in Inter-School Debate Competition!</li>
+                            <li>🎭 Drama Club presents Shakespeare’s ‘Macbeth’ on March 10.</li>
+                            <li>🌿 Eco Club organizes a Tree Plantation Drive on April 5.</li>
+                            <li>📖 Final Exams begin on March 1. Best of luck to all students!</li>
+                            <li>⚽ Inter-House Football Championship scheduled for March 15.</li>
+                            <li>🧑‍🎓 Parent-Teacher Meeting (PTM) on March 26.</li>
                         </ul>
                     </marquee>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
-<!-- news and tickker -->
 
+<!-- news and tickker -->
+<!-- hiring -->
+<div class="graduate-admission pt-100 pb-70" id="hiring">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="how-to-apply">
+                    <h2>Join Our Team – We’re Hiring in 2025!</h2>
+                    <p>Are you passionate about education and shaping young minds? Army Public School is looking for
+                        dedicated professionals to join our team in 2025! If you have the skills, commitment, and
+                        enthusiasm to contribute to a dynamic learning environment, we invite you to apply.
+
+                        Join us for a rewarding career with a competitive salary, professional growth opportunities, and
+                        a supportive work environment. Be a part of an institution that inspires, nurtures, and shapes
+                        the future of students. </p>
+
+                    <div class="apply-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <ul>
+                                    <li><i class="ri-checkbox-circle-line"></i>Competitive salary and comprehensive benefits</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Professional growth and career advancement opportunities</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Supportive and inspiring work environment</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <ul>
+                                    <li><i class="ri-checkbox-circle-line"></i>Be a part of shaping the future of young minds</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>State-of-the-art facilities and resources for teaching excellence</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>A strong community that values teamwork and innovation</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="additional-information">
+                    <h3>Application Form</h3>
+                    <div class="list">
+                        <ul>
+                            <li><a href="assets/pdf/Teacher Application LSB Form 2025_26.pdf" download> <i class="flaticon-pdf-file"></i><strong>
+                            Teaching
+                            Staff
+                            </strong></a></li>
+                            <li><a href="assets/pdf/NON TEACHING STAFF FORM aps 2025-26.pdf" download> <i class="flaticon-pdf-file"></i><strong>
+                            Non-Teaching
+                            Staff
+                            </strong></a></li>
+                            <li><a href="assets/pdf/other.pdf" download> <i class="flaticon-pdf-file"></i><strong>
+                            Other Profiles
+                            </strong></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- hiring -->
 <!--our houses Area-->
 <div class="courses-area ptb-100 bg-f4f6f9">
     <div class="container">
         <div class="section-title">
             <h2>Our Houses</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis
-            </p>
+            <p>At APS Gaya, we believe in fostering leadership, teamwork, and a spirit of healthy competition through
+                our **House System**. Each house represents a unique set of values and strengths, encouraging students
+                to strive for excellence.</p>
         </div>
         <div class="row justify-content-center">
+            <!-- Nalanda House -->
             <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                 data-aos-once="true">
                 <div class="single-courses-card">
                     <div class="courses-img">
-                        <a href="#"><img src="assets/images/courses/courses-1.jpg" alt="Image" class="img-fluid"></a>
+                        <a href="#"><img src="assets/images/tree-wisdom-knowledg..._imresizer.jpg" alt="Nalanda House"
+                                class="img-fluid"></a>
                     </div>
                     <div class="courses-content">
-
-                            <h3>Nalanda House</h3>
-                        
+                        <h3>Nalanda House</h3>
                         <div class="bottom-content">
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, labore doloribus
-                                excepturi quasi cum aspernatur tenetur aperiam recusandae!
-                            </p>
+                            <p>Inspired by the **ancient center of learning**, Nalanda House symbolizes **wisdom,
+                                intellect, and knowledge**. Students in this house strive for academic brilliance and
+                                innovation.</p>
                         </div>
                     </div>
                 </div>
             </div>
+            <!-- Rajgir House -->
             <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                 data-aos-once="true">
                 <div class="single-courses-card">
                     <div class="courses-img">
-                        <a href="#"><img src="assets/images/courses/courses-2.jpg" alt="Image" class="img-fluid"></a>
+                        <a href="#"><img src="assets/images/heri_imresizer.jpg" alt="Rajgir House"
+                                class="img-fluid"></a>
                     </div>
                     <div class="courses-content">
-
-                            <h3>Rajgir House</h3>
-                        
+                        <h3>Rajgir House</h3>
                         <div class="bottom-content">
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, labore doloribus
-                                excepturi quasi cum aspernatur tenetur aperiam recusandae!
-                            </p>
+                            <p>Named after the historic city, Rajgir House stands for **bravery, resilience, and
+                                honor**. This house encourages students to face challenges with determination and
+                                courage.</p>
                         </div>
                     </div>
                 </div>
             </div>
+            <!-- Vaishali House -->
             <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-courses-card">
                     <div class="courses-img">
-                        <a href="#"><img src="assets/images/courses/courses-3.jpg" alt="Image" class="img-fluid"></a>
+                        <a href="#"><img src="assets/images/demo_imresizer.jpg" alt="Vaishali House"
+                                class="img-fluid"></a>
                     </div>
                     <div class="courses-content">
-
-                            <h3>Vaishali House</h3>
-                        
+                        <h3>Vaishali House</h3>
                         <div class="bottom-content">
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, labore doloribus
-                                excepturi quasi cum aspernatur tenetur aperiam recusandae!
-                            </p>
+                            <p>Inspired by the first republic in the world, Vaishali House represents **leadership,
+                                democracy, and teamwork**. Students here develop a strong sense of responsibility </p>
                         </div>
                     </div>
                 </div>
             </div>
+            <!-- Magadh House -->
             <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-courses-card">
                     <div class="courses-img">
-                        <a href="#"><img src="assets/images/courses/courses-3.jpg" alt="Image" class="img-fluid"></a>
+                        <a href="#"><img src="assets/images/power_imresizer.jpg" alt="Magadh House"
+                                class="img-fluid"></a>
                     </div>
                     <div class="courses-content">
-
-                            <h3>Magadh House</h3>
-                        
+                        <h3>Magadh House</h3>
                         <div class="bottom-content">
-                            <p>
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, labore doloribus
-                                excepturi quasi cum aspernatur tenetur aperiam recusandae!
-                            </p>
+                            <p>Named after the powerful Magadh empire, this house embodies. Students are motivated to
+                                excel in both academics and extracurricular
+                                activities.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- <div class="more-courses text-center">
-            <p>Select From Hundreds of Options <a href="#" class="read-more-btn active">More on Courses
-                    <i class="flaticon-next"></i></a></p>
-        </div> -->
     </div>
 </div>
+
 
 <!--our houses Area-->
 
@@ -479,33 +535,14 @@
                 <div class="courses-details">
                     <div class="description">
                         <div class="container p-0">
-                            <nav>
-                                <div class="nav nav-tabs d-flex justify-content-between" id="nav-tab" role="tablist">
-                                    <button class="nav-link active" id="nav-overview-tab" data-bs-toggle="tab"
-                                        data-bs-target="#nav-overview" type="button" role="tab"
-                                        aria-controls="nav-overview" aria-selected="true">Pricipal Message</button>
 
-                                    <button class="nav-link" id="nav-curriculum-tab" data-bs-toggle="tab"
-                                        data-bs-target="#nav-curriculum" type="button" role="tab"
-                                        aria-controls="nav-curriculum" aria-selected="false">Chairman
-                                        Message</button>
-
-                                    <button class="nav-link" id="nav-instructor-tab" data-bs-toggle="tab"
-                                        data-bs-target="#nav-instructor" type="button" role="tab"
-                                        aria-controls="nav-instructor" aria-selected="false">Patron Message</button>
-                                    <!-- 
-                                        <button class="nav-link" id="nav-reviews-tab" data-bs-toggle="tab"
-                                            data-bs-target="#nav-reviews" type="button" role="tab"
-                                            aria-controls="nav-reviews" aria-selected="false">Reviews</button> -->
-                                </div>
-                            </nav>
                             <div class="tab-content" id="nav-tabContent">
                                 <div class="tab-pane fade show active" id="nav-overview" role="tabpanel"
                                     aria-labelledby="nav-overview-tab">
                                     <div class="overview row">
                                         <div class="col-lg-6">
-                                            <img src="assets\images\Testimonial-Man-147986_500x675.jpg" alt="" srcset=""
-                                                class="img-fluid">
+                                            <img src="assets/images/WhatsApp Image 2025-..._imresizer (1).jpg" alt=""
+                                                srcset="" class="img-fluid">
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="campus-content pr-20">
@@ -542,176 +579,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="nav-curriculum" role="tabpanel"
-                                    aria-labelledby="nav-curriculum-tab">
-                                    <div class="curriculum row">
-                                        <div class="col-lg-6">
-                                            <img src="assets\images\Testimonial-Man-147986_500x675.jpg" alt="" srcset=""
-                                                class="img-fluid">
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="campus-content pr-20">
-                                                <div class="campus-title">
-                                                    <h1>Chairman Message </h1>
-                                                    <p>We cannot always build the future for the youth, but we can
-                                                        build our youth for the future.” These admirable words of
-                                                        Franklin D. Roosevelt, utterly describe our sole aim. This
-                                                        requires a team effort of both the schools as well as the
-                                                        family. I believe that the entire purpose of education is
-                                                        not only to humanitarian values like wisdom, compassion,
-                                                        courage, humanity, integrity, and reliability in a student.
-                                                        I rely upon the anecdote that excellence is a continuous
-                                                        process and not a chance. As per the National Curriculum
-                                                        Framework 2005, each and every child possesses enough
-                                                        potential and we need to develop their core competence by
-                                                        providing them all the facilities for their all-round
-                                                        development. I am sure the painstaking efforts of the
-                                                        teachers and developing culture of APS will set a strong
-                                                        foundation to take giant strides ahead and achieve the
-                                                        educational objectives for a stronger and brighter India. I
-                                                        am convinced with the idea that our children are bestowed
-                                                        with divine fire. As a facilitator, our sole aim is to fan
-                                                        their inner fire so that they may illuminate like cherubs. .
-                                                        I cherish being a part of this glorious institution
-                                                        dedicated to the cause of better India. I especially want
-                                                        the students to have the courage to think differently, to
-                                                        travel the unexplored path, to discover the impossible and
-                                                        to conquer their problems and succeed. Wishing you all the
-                                                        best! </p>
-                                                </div>
 
-
-                                                <!-- <a href="#" class="default-btn btn">Start your
-                                                        application<i class="flaticon-next"></i></a> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab-pane fade" id="nav-instructor" role="tabpanel"
-                                    aria-labelledby="nav-instructor-tab">
-                                    <div class="row">
-                                        <div class="instructor">
-                                            <div class="row align-items-center">
-                                                <div class="col-lg-6">
-                                                    <img src="assets\images\Testimonial-Man-147986_500x675.jpg" alt=""
-                                                        srcset="" class="img-fluid">
-                                                </div>
-                                                <div class="col-lg-6">
-                                                    <div class="campus-content pr-20">
-                                                        <div class="campus-title">
-                                                            <h1>Patron </h1>
-                                                            <p>The goal of Education is the advancement of knowledge
-                                                                and the dissemination of Truth. - John F. Kennedy
-                                                                I am of the unflinching opinion that institutions of
-                                                                learning such as Army Public School must give
-                                                                unfettered encouragement and access to students and
-                                                                staff to unleash their sterling qualities to
-                                                                innovative think and creativity. Schools have a
-                                                                lifelong influence on the students, be it character
-                                                                building, discipline, behavior and leadership traits
-                                                                or in the development of physical and creative
-                                                                skills and I am certain that this school will attain
-                                                                greater heights in times to come. I am sanguine that
-                                                                the dedication and enthusiasm of Principal, staff
-                                                                and students will earn accolades for the school. I
-                                                                wish the entire staff of the school all the best for
-                                                                their future endeavors.</p>
-                                                        </div>
-
-
-                                                        <!-- <a href="#" class="default-btn btn">Start your
-                                                                application<i class="flaticon-next"></i></a> -->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="tab-pane fade" id="nav-reviews" role="tabpanel"
-                                    aria-labelledby="nav-reviews-tab">
-                                    <div class="reviews">
-                                        <div class="single-reviews-card">
-                                            <img src="assets/images/courses/review-1.png" alt="Images">
-                                            <h2>Jorge Overall</h2>
-                                            <div class="date">
-                                                <p>jan 17, 2024 at 10:43 am</p>
-                                            </div>
-                                            <div class="icon">
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                            </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                eiusmod tem incid idunt ut dolore magna aliqua. Ut enim ad minim ven
-                                                iam quis nostrud </p>
-                                        </div>
-                                        <div class="single-reviews-card">
-                                            <img src="assets/images/courses/review-2.png" alt="Images">
-                                            <h2>Manuel Myers</h2>
-                                            <div class="date">
-                                                <p>jan 17, 2024 at 10:43 am</p>
-                                            </div>
-                                            <div class="icon">
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                            </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                eiusmod tem incid idunt ut dolore magna aliqua. Ut enim ad minim ven
-                                                iam quis nostrud </p>
-                                        </div>
-
-                                        <div class="single-reviews-card">
-                                            <img src="assets/images/courses/review-1.png" alt="Images">
-                                            <h2>Sally Hatch</h2>
-                                            <div class="date">
-                                                <p>jan 17, 2024 at 10:43 am</p>
-                                            </div>
-                                            <div class="icon">
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                                <i class="ri-star-fill"></i>
-                                            </div>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                eiusmod tem incid idunt ut dolore magna aliqua. Ut enim ad minim ven
-                                                iam quis nostrud </p>
-                                        </div>
-
-                                        <div class="review-form">
-                                            <h3>Write a Review</h3>
-                                            <form>
-                                                <div class="row">
-                                                    <div class="col-lg-6">
-                                                        <div class="form-group">
-                                                            <label>Name</label>
-                                                            <input type="text" class="form-control" id="name">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6">
-                                                        <div class="form-group">
-                                                            <label>Email</label>
-                                                            <input type="email" class="form-control" id="email">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-12">
-                                                        <div class="form-group">
-                                                            <label>Summary</label>
-                                                            <textarea class="form-control" id="review"
-                                                                rows="4"></textarea>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <button type="submit" class="default-btn btn">Submit Review</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -831,62 +699,73 @@
     <div class="container">
         <div class="section-title">
             <h2>Campus Life</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis
+            <p>At APS Gaya, we believe that learning extends beyond the classroom. Our vibrant **campus life** is filled
+                with opportunities for students to explore their talents, stay active, and build lifelong friendships.
             </p>
         </div>
         <div class="row justify-content-center">
+            <!-- Art & Culture -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                 data-aos-once="true">
                 <div class="single-campus-card">
                     <div class="img">
-                        <a href="#"><img src="assets/images/campus-life/campus-life-1.jpg" alt="Image"
+                        <a href="#"><img src="assets/images/campus-life/campus-life-1.jpg" alt="Art & Culture"
                                 class="img-fluid"></a>
                     </div>
                     <div class="campus-content">
                         <span>Art & Culture</span>
                         <a href="#">
-                            <h3>Art, Exercise And Escapism In Nature</h3>
+                            <h3>Celebrating Creativity & Expression</h3>
                         </a>
+                        <p>From **painting and music to dance and drama**, our Art & Culture programs encourage students
+                            to embrace creativity and showcase their talents on various platforms.</p>
                     </div>
                 </div>
             </div>
+            <!-- Athletics & Fitness -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                 data-aos-once="true">
                 <div class="single-campus-card">
                     <div class="img">
-                        <a href="#"><img src="assets/images/campus-life/campus-life-2.jpg" alt="Image"
+                        <a href="#"><img src="assets/images/campus-life/campus-life-2.jpg" alt="Athletics & Fitness"
                                 class="img-fluid"></a>
                     </div>
                     <div class="campus-content">
                         <span>Athletics & Fitness</span>
                         <a href="#">
-                            <h3>Improve Athletic Performance Tips From Army Public School</h3>
+                            <h3>Sportsmanship & Strength at APS Gaya</h3>
                         </a>
+                        <p>Our school promotes **physical fitness and teamwork** through a range of sports, including
+                            football, basketball, athletics, and yoga, ensuring a healthy and active lifestyle.</p>
                     </div>
                 </div>
             </div>
+            <!-- Student Life -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-campus-card">
                     <div class="img">
-                        <a href="#"><img src="assets/images/campus-life/campus-life-3.jpg" alt="Image"
+                        <a href="#"><img src="assets/images/campus-life/campus-life-3.jpg" alt="Student Life"
                                 class="img-fluid"></a>
                     </div>
                     <div class="campus-content">
                         <span>Student Life</span>
                         <a href="#">
-                            <h3>Why I Changed My Mind About Career Connections</h3>
+                            <h3>Engaging & Enriching Student Experience</h3>
                         </a>
+                        <p>With **clubs, leadership programs, and community service**, APS Gaya fosters a well-rounded
+                            student experience that prepares learners for future success.</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="more-campus text-center">
-            <p>Select From Hundreds of Options. <a href="#" class="read-more-btn active">More on
+            <p>Discover the **vibrant life at APS Gaya**. <a href="#" class="read-more-btn active">More on
                     Campus Life <i class="flaticon-next"></i></a></p>
         </div>
     </div>
 </div>
+
 <!--End Campus Life Area-->
 
 <!--Start Admisssion Area-->
@@ -990,16 +869,18 @@
 <div class="events-area bg-f4f6f9 ptb-100">
     <div class="container">
         <div class="section-title">
-            <h2>Events</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis
-            </p>
+            <h2>Upcoming Events</h2>
+            <p>APS Gaya hosts a variety of <strong>academic, cultural, and sports events</strong> throughout the year,
+                fostering student engagement and holistic development.</p>
         </div>
         <div class="row justify-content-center">
+            <!-- Event 1 -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200"
                 data-aos-once="true">
                 <div class="single-events-card">
                     <div class="events-image">
-                        <a href="#"><img src="assets/images/events/events-1.jpg" class="img-fluid" alt="Image"></a>
+                        <a href="#"><img src="assets/images/events/events-1.jpg" class="img-fluid"
+                                alt="Annual Science Exhibition"></a>
                         <div class="date">
                             <span>28</span>
                             <p>Mar</p>
@@ -1007,20 +888,24 @@
                     </div>
                     <div class="events-content">
                         <div class="admin">
-                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a>
-                            </p>
+                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i> Organized by Science
+                                    Club</a></p>
                         </div>
                         <a href="#">
-                            <h3>Planning And Facilitating Effective Meetings</h3>
+                            <h3>Annual Science Exhibition 2025</h3>
                         </a>
+                        <p>Witness <strong>groundbreaking projects, innovative models, and interactive
+                                experiments</strong> by our talented students in this exciting exhibition.</p>
                     </div>
                 </div>
             </div>
+            <!-- Event 2 -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400"
                 data-aos-once="true">
                 <div class="single-events-card">
                     <div class="events-image">
-                        <a href="#"><img src="assets/images/events/events-2.jpg" class="img-fluid" alt="Image"></a>
+                        <a href="#"><img src="assets/images/events/events-2.jpg" class="img-fluid"
+                                alt="Inter-House Debate Competition"></a>
                         <div class="date">
                             <span>29</span>
                             <p>Mar</p>
@@ -1028,20 +913,24 @@
                     </div>
                     <div class="events-content">
                         <div class="admin">
-                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a>
-                            </p>
+                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i> English Literary
+                                    Club</a></p>
                         </div>
                         <a href="#">
-                            <h3>Regular WordPress Meetup In New Jersey, USA</h3>
+                            <h3>Inter-House Debate Competition</h3>
                         </a>
+                        <p>Join us as our students showcase their <strong>oratory skills, critical thinking, and
+                                persuasive arguments</strong> in a thrilling debate competition.</p>
                     </div>
                 </div>
             </div>
+            <!-- Event 3 -->
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600"
                 data-aos-once="true">
                 <div class="single-events-card">
                     <div class="events-image">
-                        <a href="#"><img src="assets/images/events/events-3.jpg" class="img-fluid" alt="Image"></a>
+                        <a href="#"><img src="assets/images/events/events-3.jpg" class="img-fluid"
+                                alt="Annual Sports Meet"></a>
                         <div class="date">
                             <span>30</span>
                             <p>Mar</p>
@@ -1049,22 +938,25 @@
                     </div>
                     <div class="events-content">
                         <div class="admin">
-                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a>
+                            <p><a href="#"><i class="flaticon-student-with-graduation-cap"></i> Sports Department</a>
                             </p>
                         </div>
                         <a href="#">
-                            <h3>Monday Night Concert In Lake View,Mountain City</h3>
+                            <h3>Annual Sports Meet 2025</h3>
                         </a>
+                        <p>Experience the <strong>thrill of competition, teamwork, and sportsmanship</strong> as
+                            students participate in various sports and athletic events.</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="more-health-care text-center">
-            <p>Select From Hundreds of Options. <a href="#" class="read-more-btn active">More on
-                    Events<i class="flaticon-next"></i></a></p>
+            <p>Stay updated with all our <strong>exciting school events</strong>. <a href="#"
+                    class="read-more-btn active">More on Events<i class="flaticon-next"></i></a></p>
         </div>
     </div>
 </div>
+
 <!--End Events Area-->
 
 <!--Start Podcasts Area-->
@@ -1187,109 +1079,8 @@
 <!--End Podcasts Area-->
 
 <!--Start Faq Area-->
-<div class="faq-area ptb-100 bg-blue">
-    <div class="container">
-        <div class="row align-items-center">
 
-            <div class="col-lg-6">
-                <div class="faq-image ">
-                    <img src="assets/images/faq-img.jpg" alt="Image" class="img-fluid w-100">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="faq-left-content pl-20">
-                    <div class="faq-title">
-                        <h2>Need To Ask Some Questions Or Check Questions</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority in
-                            injected humour, randomised words don't look believable</p>
-                    </div>
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    1. Is a phone call considered Army Public School?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    There are many variations of passages of Lorem Ipsum available, the
-                                    many variations of passages of Lorem Ipsum available, majority have
-                                    injected humour, randomised words don't look believable.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    2. What equipment do you need for Army Public School?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    There are many variations of passages of Lorem Ipsum available, the
-                                    many variations of passages of Lorem Ipsum available, majority have
-                                    injected humour, randomised words don't look believable.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    3. Can you use FaceTime for Army Public School?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    There are many variations of passages of Lorem Ipsum available, the
-                                    many variations of passages of Lorem Ipsum available, majority have
-                                    injected humour, randomised words don't look believable.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    4. How do I get started with Army Public School?
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    There are many variations of passages of Lorem Ipsum available, the
-                                    many variations of passages of Lorem Ipsum available, majority have
-                                    injected humour, randomised words don't look believable.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    4. How do I get started with Army Public School?
-                                </button>
-                            </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    There are many variations of passages of Lorem Ipsum available, the
-                                    many variations of passages of Lorem Ipsum available, majority have
-                                    injected humour, randomised words don't look believable.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 
 <!--Start Campus Information-->
 <div class="campus-information-area pt-100 pb-70">
@@ -1300,9 +1091,10 @@
                 <div class="campus-content">
                     <div class="campus-title">
                         <h2>Campus Information</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation
-                            ulla mco laboris nisi ut </p>
+                        <p>APS Gaya provides a **safe, inclusive, and dynamic learning environment** where students can
+                            grow academically, socially, and personally. Our state-of-the-art campus ensures holistic
+                            development through well-equipped classrooms, sports facilities, and extracurricular
+                            activities.</p>
                     </div>
                     <div class="list">
                         <div class="row">
@@ -1310,19 +1102,19 @@
                                 <ul>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Graduate Programs</p>
+                                        <p>Well-equipped Classrooms</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Programs</p>
+                                        <p>Advanced Science & Computer Labs</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Doctoral Degrees</p>
+                                        <p>Library with Digital Resources</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Alumni & Giving</p>
+                                        <p>Medical & First Aid Facilities</p>
                                     </li>
                                 </ul>
                             </div>
@@ -1330,19 +1122,19 @@
                                 <ul>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Undergraduate</p>
+                                        <p>Sports & Athletics Facilities</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>International Hubs</p>
+                                        <p>Eco-friendly Campus</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Doctoral Degrees</p>
+                                        <p>Clubs & Co-curricular Activities</p>
                                     </li>
                                     <li>
                                         <i class="ri-check-fill"></i>
-                                        <p>Global Students</p>
+                                        <p>Transport & Security Services</p>
                                     </li>
                                 </ul>
                             </div>
@@ -1352,36 +1144,37 @@
                         <div class="row">
                             <div class="col-lg-4 col-4">
                                 <div class="counter-card">
-                                    <h1>
-                                        <span class="odometer" data-count="65">00</span>
+                                    <h2>
+                                        <span class="odometer" data-count="15">00</span>
                                         <span class="target">+</span>
-                                    </h1>
-                                    <p>Years Of Experience</p>
+                                    </h2>
+                                    <p>Years of Excellence</p>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-4">
                                 <div class="counter-card">
-                                    <h1>
-                                        <span class="odometer" data-count="30">00</span>
-                                        <span class="target heading-color">k</span><span class="target">+</span>
-                                    </h1>
-                                    <p>Global Students</p>
+                                    <h2>
+                                        <span class="odometer" data-count="1200">00</span>
+                                        <span class="target heading-color">+</span>
+                                    </h2>
+                                    <p>Students Enrolled</p>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-4">
                                 <div class="counter-card">
-                                    <h1>
-                                        <span class="odometer" data-count="52">00</span>
+                                    <h2>
+                                        <span class="odometer" data-count="50">00</span>
                                         <span class="target">+</span>
-                                    </h1>
-                                    <p>Student Nationalities</p>
+                                    </h2>
+                                    <p>Dedicated Faculty Members</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a href="#" class="default-btn btn">Start your application<i class="flaticon-next"></i></a>
+                    <a href="#" class="default-btn btn">Start Your Journey<i class="flaticon-next"></i></a>
                 </div>
             </div>
+
             <div class="col-lg-6">
                 <div class="estemate-form">
                     <h3>Enquire Now</h3>
@@ -1429,106 +1222,78 @@
 <div class="container">
     <div class="row d-flex justify-content-center">
         <div class="col-md-10 col-xl-8 text-center">
-            <h3 class="mb-4">Testimonials</h3>
-            <!-- <p class="mb-4 pb-2 mb-md-5 pb-md-0">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet
-                    numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum
-                    quisquam eum porro a pariatur veniam.
-                </p> -->
+            <h3 class="mb-4">What Our Students & Parents Say</h3>
+            <p class="mb-4 pb-2 mb-md-5 pb-md-0">
+                Hear from our students and parents about their experiences at APS Gaya, where education meets
+                excellence.
+            </p>
         </div>
     </div>
 
     <div class="row text-center">
+        <!-- Testimonial 1 -->
         <div class="col-md-4 col-sm-4 col-xs-4 mb-5 mb-md-0">
             <div class="d-flex justify-content-center mb-4">
-                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(1).webp"
-                    class="rounded-circle shadow-1-strong" width="150" height="150" />
+                <!-- <img src="assets/images/testimonials/student-1.jpg" class="rounded-circle shadow-1-strong" width="150"
+                    height="150" alt="Student Image" /> -->
             </div>
-            <h5 class="mb-3">Maria Smantha</h5>
-            <h6 class="text-primary mb-3">Web Developer</h6>
+            <h5 class="mb-3">Ananya Sharma</h5>
+            <h6 class="text-primary mb-3">Class X Student</h6>
             <p class="px-xl-3">
-                <i class="fas fa-quote-left pe-2"></i>Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic
-                tenetur.
+                <i class="fas fa-quote-left pe-2"></i>APS Gaya has been a second home for me. The teachers are
+                supportive, and the learning environment is inspiring!
             </p>
             <ul class="list-unstyled d-flex justify-content-center mb-0">
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star-half-alt fa-sm text-warning"></i>
-                </li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star-half-alt fa-sm text-warning"></i></li>
             </ul>
         </div>
+        <!-- Testimonial 2 -->
         <div class="col-md-4 col-sm-4 col-xs-4 mb-5 mb-md-0">
             <div class="d-flex justify-content-center mb-4">
-                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(2).webp"
-                    class="rounded-circle shadow-1-strong" width="150" height="150" />
+                <!-- <img src="assets/images/testimonials/parent-1.jpg" class="rounded-circle shadow-1-strong" width="150"
+                    height="150" alt="Parent Image" /> -->
             </div>
-            <h5 class="mb-3">Lisa Cudrow</h5>
-            <h6 class="text-primary mb-3">Graphic Designer</h6>
+            <h5 class="mb-3">Rajesh Verma</h5>
+            <h6 class="text-primary mb-3">Parent</h6>
             <p class="px-xl-3">
-                <i class="fas fa-quote-left pe-2"></i>Ut enim ad minima veniam, quis nostrum
-                exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid commodi.
+                <i class="fas fa-quote-left pe-2"></i>I'm grateful for the holistic education APS Gaya provides. My
+                child is growing academically and personally in a disciplined environment.
             </p>
             <ul class="list-unstyled d-flex justify-content-center mb-0">
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
             </ul>
         </div>
+        <!-- Testimonial 3 -->
         <div class="col-md-4 col-sm-4 col-xs-4 mb-0">
             <div class="d-flex justify-content-center mb-4">
-                <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(9).webp"
-                    class="rounded-circle shadow-1-strong" width="150" height="150" />
+                <!-- <img src="assets/images/testimonials/alumni-1.jpg" class="rounded-circle shadow-1-strong" width="150"
+                    height="150" alt="Alumni Image" /> -->
             </div>
-            <h5 class="mb-3">John Smith</h5>
-            <h6 class="text-primary mb-3">Marketing Specialist</h6>
+            <h5 class="mb-3">Priya Mehta</h5>
+            <h6 class="text-primary mb-3">Alumni (Batch 2022)</h6>
             <p class="px-xl-3">
-                <i class="fas fa-quote-left pe-2"></i>At vero eos et accusamus et iusto odio
-                dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.
+                <i class="fas fa-quote-left pe-2"></i>The values and education I received at APS Gaya have shaped my
+                future. Forever grateful for my time here!
             </p>
             <ul class="list-unstyled d-flex justify-content-center mb-0">
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="fas fa-star fa-sm text-warning"></i>
-                </li>
-                <li>
-                    <i class="far fa-star fa-sm text-warning"></i>
-                </li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="fas fa-star fa-sm text-warning"></i></li>
+                <li><i class="far fa-star fa-sm text-warning"></i></li>
             </ul>
         </div>
     </div>
 </div>
+
 <!-- testimonial -->
 
 <!--Start Check Student Stories-->
