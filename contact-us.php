@@ -103,7 +103,7 @@
                                         <i class="ri-phone-line"></i>
                                     </div>
                                     <h4>Contact</h4>
-                                    <p>Mobile: <a href="tel:+8819906886">(+88)-1990-6886</a></p>
+                                    <p>Mobile: <a href="tel:+8819906886">0631-2951089</a></p>
                                     <p>Mail: <a
                                             data-cfemail="f586949b80b590918098949c99db969a98">apsgaya@gmail.com</span></a>
                                     </p>

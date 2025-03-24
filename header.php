@@ -54,16 +54,16 @@
     </div>
     <!-- End Preloader Area -->
     <div class="desktop-nav d-flex justify-content-end pt-1 pb-1" style="background-color: #E32845;">
-    <div class="ms-2">
-        <a href="admission.php" class="ad-btn">Online Admission</a>
+        <div class="ms-2">
+            <a href="https://erp.awesindia.edu.in/webinterface/searchschool" class="ad-btn">Online Admission</a>
+        </div>
+        <div class="ms-2">
+            <a href="https://erp.awesindia.edu.in/webInterface/PayFees" class="ad-btn">Online Fee</a>
+        </div>
+        <div class="ms-2">
+            <a href="index.php#hiring" class="ad-btn">Hiring Recruitment 2025</a>
+        </div>
     </div>
-    <div class="ms-2">
-        <a href="fee.php" class="ad-btn">Online Fee</a>
-    </div>
-    <div class="ms-2">
-        <a href="#hiring" class="ad-btn">Hiring Recruitment 2025</a>
-    </div>
-</div>
 
     <!--Start Top Header Area-->
     <!-- <style>
@@ -76,7 +76,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-4">
                     <a class="navbar-brand" href="index.php">
-                        <img src="assets/images/logomain.png" alt="logo" class="w-100 logo-desktop">
+                        <img src="assets/images/APS LOGO FOR GAYA.png" alt="logo" class="w-100 logo-desktop">
                     </a>
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -122,7 +122,7 @@
                 </div>
                 <div class="col-lg-2 col-md-2">
                     <div class="header-right-content">
-                        <a href="#" class="default-btn btn">T.C. <i class="flaticon-next"></i></a>
+                        <a href="tc.php" class="default-btn btn">T.C. <i class="flaticon-next"></i></a>
                     </div>
                 </div>
 
@@ -199,7 +199,7 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-item dropdown-toggle">Lab Facilities</a>
                                         <ul class="dropdown-menu">
-                                        <li class="nav-item">
+                                            <li class="nav-item">
                                                 <a href="computer-lab.php" class="nav-link">Computer Lab</a>
                                             </li>
                                             <li class="nav-item">
@@ -214,7 +214,7 @@
                                             <li class="nav-item">
                                                 <a href="atal-lab.php" class="nav-link">ATAL Lab</a>
                                             </li>
-                                          
+
                                         </ul>
                                     </li>
                                     <li class="nav-item">
@@ -360,12 +360,12 @@
 
                         <div class="sidebar-btn">
 
-                            <a href="admission.php" class="default-btn">Online Admission</a>
+                            <a href="https://erp.awesindia.edu.in/webinterface/searchschool" class="default-btn">Online Admission</a>
 
                         </div>
                         <div class="sidebar-btn ">
 
-                            <a href="fee.php" class="default-btn">Online Fee</a>
+                            <a href="https://erp.awesindia.edu.in/webInterface/PayFees" class="default-btn">Online Fee</a>
 
                         </div>
                     </div>
@@ -373,15 +373,14 @@
                         <h3>Contact Information</h3>
 
                         <ul class="info-list">
-                            <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+990-123-4567</a></li>
+                            <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">0631-2951089</a></li>
 
                             <li><i class="ri-mail-line"></i><a
-                                    href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#472f222b2b2807342629326924282a"><span
-                                        class="__cf_email__"
-                                        data-cfemail="d3bbb6bfbfbc93a0b2bda6fdb0bcbe">[email&#160;protected]</span></a>
+                                    href="mailto:apsgaya@gmail.com"><span
+                                        data-cfemail="d3bbb6bfbfbc93a0b2bda6fdb0bcbe">apsgaya@gmail.com</span></a>
                             </li>
 
-                            <li><i class="ri-map-pin-line"></i> 413 North Las Vegas, NV 89032</li>
+                            <li><i class="ri-map-pin-line"></i> Army Public School OTA, Paharpur , Gaya - 823005</li>
                         </ul>
                     </div>
                     <ul class="sidebar-social-list">

@@ -9,7 +9,7 @@
                     <p>APS Gaya is committed to providing quality education, fostering leadership, and nurturing talent in a disciplined environment.</p>
                     <div class="contact-list">
                         <ul>
-                            <li><a href="tel:+911234567890">+91-1234-567-890</a></li>
+                            <li><a href="tel:+911234567890">0631-2951089</a></li>
                             <li><a href="mailto:apsgaya@gmail.com">apsgaya@gmail.com</a></li>
                         </ul>
                     </div>

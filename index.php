@@ -2,7 +2,7 @@
 <!--Start Banner Area-->
 <div class="banner-area">
     <div class="hero-slider2 owl-carousel owl-theme">
-    <div class="slider-item banner-bg-1">
+        <div class="slider-item banner-bg-1">
             <div class="container-fluid">
                 <!-- <div class="slider-content">
                     <h1>Build a Bright Future with Excellence & Integrity</h1>
@@ -94,7 +94,7 @@
                     </div>
 
 
-                    <a href="#" class="default-btn btn">Start your application<i class="flaticon-next"></i></a>
+                    <a href="https://erp.awesindia.edu.in/webinterface/searchschool" class="default-btn btn">Start your application<i class="flaticon-next"></i></a>
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1300"
@@ -234,7 +234,7 @@
 </div>
 
 <!-- news and tickker -->
- <!-- all messages -->
+<!-- all messages -->
 <div class="courses-details-area pt-70  bg-blue">
     <div class="container-fluid">
         <div class="row w-100">
@@ -248,14 +248,15 @@
                                     aria-labelledby="nav-overview-tab">
                                     <div class="overview row">
                                         <div class="col-lg-6">
-                                            <img src="assets/images/principlemessage.jpeg" alt=""
-                                                srcset="" class="img-fluid">
+                                            <img src="assets/images/principlemessage.jpeg" alt="" srcset=""
+                                                class="img-fluid">
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="campus-content pr-20">
                                                 <div class="campus-title">
                                                     <h1>Principal Message</h1>
-                                                    <p style="text-align: justify!important;">Education is about awakening- awakening to the power and
+                                                    <p style="text-align: justify!important;">Education is about
+                                                        awakening- awakening to the power and
                                                         beauty that lies within all of us” Army Public School, Gaya,
                                                         endeavours to inspire and empower our students to be
                                                         lifelong learners, critical thinkers and productive members
@@ -315,16 +316,22 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <ul>
-                                    <li><i class="ri-checkbox-circle-line"></i>Competitive salary and comprehensive benefits</li>
-                                    <li><i class="ri-checkbox-circle-line"></i>Professional growth and career advancement opportunities</li>
-                                    <li><i class="ri-checkbox-circle-line"></i>Supportive and inspiring work environment</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Competitive salary and comprehensive
+                                        benefits</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Professional growth and career
+                                        advancement opportunities</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Supportive and inspiring work environment
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <ul>
-                                    <li><i class="ri-checkbox-circle-line"></i>Be a part of shaping the future of young minds</li>
-                                    <li><i class="ri-checkbox-circle-line"></i>State-of-the-art facilities and resources for teaching excellence</li>
-                                    <li><i class="ri-checkbox-circle-line"></i>A strong community that values teamwork and innovation</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>Be a part of shaping the future of young
+                                        minds</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>State-of-the-art facilities and resources
+                                        for teaching excellence</li>
+                                    <li><i class="ri-checkbox-circle-line"></i>A strong community that values teamwork
+                                        and innovation</li>
                                 </ul>
                             </div>
                         </div>
@@ -338,17 +345,19 @@
                     <h3>Application Form</h3>
                     <div class="list">
                         <ul>
-                            <li><a href="assets/pdf/Teacher Application LSB Form 2025_26.pdf" download> <i class="flaticon-pdf-file"></i><strong>
-                            Teaching
-                            Staff
-                            </strong></a></li>
-                            <li><a href="assets/pdf/NON TEACHING STAFF FORM aps 2025-26.pdf" download> <i class="flaticon-pdf-file"></i><strong>
-                            Non-Teaching
-                            Staff
-                            </strong></a></li>
+                            <li><a href="assets/pdf/Teacher Application LSB Form 2025_26.pdf" download> <i
+                                        class="flaticon-pdf-file"></i><strong>
+                                        Teaching
+                                        Staff
+                                    </strong></a></li>
+                            <li><a href="assets/pdf/NON TEACHING STAFF FORM aps 2025-26.pdf" download> <i
+                                        class="flaticon-pdf-file"></i><strong>
+                                        Non-Teaching
+                                        Staff
+                                    </strong></a></li>
                             <li><a href="assets/pdf/other.pdf" download> <i class="flaticon-pdf-file"></i><strong>
-                            Other Profiles
-                            </strong></a></li>
+                                        Other Profiles
+                                    </strong></a></li>
                         </ul>
                     </div>
                 </div>
@@ -1199,7 +1208,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="#" class="default-btn btn">Start Your Journey<i class="flaticon-next"></i></a>
+                    <a href="contact.php" class="default-btn btn">Start Your Journey<i class="flaticon-next"></i></a>
                 </div>
             </div>
 
