@@ -265,10 +265,10 @@
                                         <a href="fee.php" class="nav-link">Fee Structure</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Online Admission</a>
+                                        <a href="https://erp.awesindia.edu.in/webinterface/searchschool" class="nav-link">Online Admission</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Pay Fee Online</a>
+                                        <a href="https://erp.awesindia.edu.in/webInterface/PayFees" class="nav-link">Pay Fee Online</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="eligibility.php" class="nav-link">Eligibility</a>

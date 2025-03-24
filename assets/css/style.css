@@ -386,19 +386,28 @@ Navbar Area Style
   left: 0;
   padding: 0;
 }
-.desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li {
-  padding: 0;
+
+.desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover {
+  /* padding: 0; */
+  background-color: #E32845;
+  color: white !important;
+ 
 }
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
   color: #1b2336;
-  padding: 15px;
+  /* padding: 15px; */
   border-bottom: 1px dashed #ededed;
   margin: 0;
   font-size: 15px;
   font-weight: 600;
   line-height: 1;
+  text-align: center;
   display: block;
+  transition: all ease-out;
   position: relative;
+}
+.desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover{
+  color: white !important;
 }
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.dropdown-toggle::after {
   display: none;
