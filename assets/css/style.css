@@ -1092,16 +1092,19 @@ Banner Style
   margin-left: auto;
 }
 
+/* General Slider Item Styles */
 .slider-item {
   position: relative;
-  /* background-size: contain; */
-  background-position: center center;
-  background-repeat: no-repeat;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  padding-left: 60px;
-  overflow: hidden;
+  background-size: cover;  /* Ensures the image covers the container area */
+  background-position: center center;  /* Keeps the image centered */
+  background-repeat: no-repeat;  /* Prevents the image from repeating */
+  padding: 0;  /* Remove padding for full-width/full-height images */
+  overflow: hidden;  /* Ensures no image overflow */
+  width: 100%;  /* Full width */
+  height: 100vh;  /* Full viewport height */
 }
+
+/* Background images for each slide */
 .slider-item.banner-bg-1 {
   background-image: url(../images/s1.jpg);
 }
@@ -1117,6 +1120,27 @@ Banner Style
 .slider-item.banner-bg-5 {
   background-image: url(../images/s5.jpg);
 }
+
+/* Mobile Responsiveness */
+@media (max-width: 1100px) {
+  .slider-item {
+    height: 60vh;  /* Adjust height to 50% of the viewport height on mobile */
+    padding: 0;  /* Remove any padding */
+  }
+}
+@media (max-width: 768px) {
+  .slider-item {
+    height: 50vh;  /* Adjust height to 50% of the viewport height on mobile */
+    padding: 0;  /* Remove any padding */
+  }
+}
+
+@media (max-width: 400px) {
+  .slider-item {
+    height: 40vh;  /* Reduce height further for smaller devices */
+  }
+}
+
 .slider-item.banner-bg-6 {
   background-image: url(../images/banner/banner-img6.jpg);
 }
@@ -1509,7 +1533,7 @@ Academics Style
 .marquee-content {
   display: inline-block;
   white-space: nowrap;
-  animation: marquee 30s linear infinite;
+  animation: marquee 55s linear infinite;
 }
 
 .marquee-content ul {
@@ -1523,8 +1547,8 @@ Academics Style
   background: rgb(243, 236, 236);
 }
 @keyframes marquee {
-  from { transform: translateX(100%); }
-  to { transform: translateX(-100%); }
+  from { transform: translateX(-100%); }
+  to { transform: translateX(100%); }
 }
 
 /* Pause on Hover */

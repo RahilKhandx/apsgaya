@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <!--Start Banner Area-->
 <div class="banner-area">
-    <div class="hero-slider2 owl-carousel owl-theme">
+<div class="hero-slider2 owl-carousel owl-theme">
         <div class="slider-item banner-bg-1">
             <div class="container-fluid">
                 <!-- <div class="slider-content">
@@ -46,7 +46,7 @@
         <div class="slider-item banner-bg-5">
             <div class="container-fluid">
                 <!-- <div class="slider-content">
-                    <h1>Unlock Your Potential & Shape Your Dreams</h1>
+                    <h1>Unlock Your Potential & Shape Your Dreams</h1>`
                     <p>Discover a world of learning, creativity, and leadership at APS Gaya, where we nurture talent,
                         encourage curiosity, and prepare students for a successful future.</p>
                     <a href="#" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
@@ -59,16 +59,22 @@
     <div class="updates-marquee ">
         <div class="marquee-content">
             <ul>
-                <li>Update 1: Admissions Open for 2025</li>
-                <li>Update 2: PTM Scheduled for March 10</li>
-                <li>Update 3: Annual Sports Meet on March 20</li>
-                <li>Update 4: Science Exhibition on April 5</li>
-                <li>Update 5: Summer Vacation Starts from May 15</li>
-                <li>Update 6: New Library Books Added</li>
-                <li>Update 7: Mock Exams Begin Next Week</li>
-                <li>Update 8: Inter-School Debate Competition on March 25</li>
-                <li>Update 9: School Magazine Release Date Announced</li>
-                <li>Update 10: Computer Lab Upgraded</li>
+                
+                <li> PTM Scheduled for March 10</li>
+                <li> Annual Sports Meet on March 20</li>
+                <li> Science Exhibition on April 5</li>
+                <li> Summer Vacation Starts from May 15</li>
+                <li> New Library Books Added</li>
+                <li> Mock Exams Begin Next Week</li>
+                <li> Inter-School Debate Competition on March 25</li>
+                <li> School Magazine Release Date Announced</li>
+                <li> Computer Lab Upgraded</li>
+                <li>
+                <a href="assets/pdf/Class-1-Result.pdf" class="default-btn btn">Result of Admission Test (Class 1) 2025-26</a>
+                </li>
+                <li>
+                <a href="assets/pdf/ARMY PUBLIC SCHOOL, GAYA CALENDAR 2025-26.pdf" class="default-btn btn">Academic Calender 2025-26</a>
+                </li>
             </ul>
         </div>
     </div>

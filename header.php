@@ -314,6 +314,11 @@
                                     Gallery
                                 </a>
                             </li>
+                            <li class="nav-item">
+                                <a href="alumni.php" class="nav-link">
+                                    Alumni
+                                </a>
+                            </li>
 
                             <li class="nav-item">
                                 <a href="contact-us.php" class="nav-link">Contact Us</a>
